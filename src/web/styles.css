@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v1440 -->
+<div class="styles-—-stylesheet-definitions-1440">
+  <header class="container">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-1440">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="flex-row">
+    <div class="card">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-1440">v1440</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-1440 {
+  display: grid;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px;
+  background: #6902de;
+  border-radius: 14px;
+  border: 1px solid #b92e9f;
+}
+.styles-—-stylesheet-definitions-1440 .container {
+  color: #799bdc;
+  font-size: 24px;
+  font-weight: 700;
+}
+.badge-1440 {
+  background: #b92e9f;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 11px;
+  font-size: 10px;
+}
+</style>
